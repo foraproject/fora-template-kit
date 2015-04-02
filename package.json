@@ -1,0 +1,23 @@
+{
+  "name": "fora-template-kit",
+  "version": "1.0.0",
+  "description": "Utility functions for creating Fora Applications",
+  "main": "lib/fora-template-kit.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/fora-template-kit"
+  },
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "license": "GNU GPL V3.0",
+  "bugs": {
+    "url": "https://github.com/jeswin/fora-template-kit/issues"
+  },
+  "dependencies": {
+    "koa": "*",
+    "co": "*",
+    "isotropy": "*"
+  }
+}
